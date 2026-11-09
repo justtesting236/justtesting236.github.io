@@ -1,0 +1,2 @@
+# Allowed networks for analysis. RFC 5737 documentation ranges only in this example.
+192.0.2.0/24
